@@ -1,5 +1,8 @@
 <?php
 $nama=array(
+'Agil',
+'Santi',
+'Wawan',
 'Elma',
 'Lailasari',
 'Rina',
