@@ -1,5 +1,5 @@
 <?php
-$nama=arrayW
+$nama=array(
 'Agil',
 'Santi',
 'Wawan',
