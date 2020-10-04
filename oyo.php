@@ -41,6 +41,7 @@ $nama=array(
 'Firgantoro',
 'Sidiq',
 'Hutasoit',
+'Agil',
 'Raihan',
 'Napitupulu',
 'Irma',
