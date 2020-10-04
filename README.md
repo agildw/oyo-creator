@@ -1,4 +1,4 @@
-Auto Register OY0 using PHP
+Auto Register OYO using PHP
 
 USAGE
 - git clone this repository
