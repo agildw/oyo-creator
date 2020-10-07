@@ -395,6 +395,7 @@ $nama=array(
 'Kanda',
 'Pratiwi',
 'Tedi',
+'Cecep',
 'Nuraini',);
 
 error_reporting(0);
